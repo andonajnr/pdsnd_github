@@ -20,6 +20,7 @@ Try this out, it promises to be interactive and interesting.
 Thanks.
 
 ### Files used
+A total of 3 files were used
 chicago.csv
 new-york-city.csv
 washington.csv
