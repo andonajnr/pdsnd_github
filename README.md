@@ -15,6 +15,9 @@ Code was written to import the data and answer interesting questions about it by
 
 It also includes a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
+Try this out, it promises to be interactive and interesting.
+
+Thanks.
 
 ### Files used
 chicago.csv
