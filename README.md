@@ -9,7 +9,7 @@ This README file was created on Apr 22, 2022
 bikeshare project
 
 ### Description
-This project uses Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+This project uses Python to explore data related to bike share systems for three major cities in the United States, namely: Chicago, New York City, and Washington.
 
 Code was written to import the data and answer interesting questions about it by computing descriptive statistics.
 
