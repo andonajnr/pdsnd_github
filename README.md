@@ -19,26 +19,11 @@ Try this out, it promises to be interactive and interesting.
 Thanks.
 
 ### Files used
-<<<<<<< HEAD
-chicago.csv
-new-york-city.csv
-washington.csv
-||||||| b8c59cb
-Include the files used
-=======
 A total of 3 files were used
 chicago.csv
 new-york-city.csv
 washington.csv
->>>>>>> refactoring
 
 ### Credits
-<<<<<<< HEAD
 Udacity
 Stack Overflow
-||||||| b8c59cb
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-=======
-Udacity
->>>>>>> refactoring
